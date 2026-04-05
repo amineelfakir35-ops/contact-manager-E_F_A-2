@@ -1,4 +1,4 @@
-nano nixpacks.toml
+
 [phases.setup]
 nixPkgs = ["php81"]
 
