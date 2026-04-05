@@ -1,3 +1,4 @@
+nano start.sh
 #!/bin/bash
 
 # Start PHP built-in server
