@@ -1,0 +1,7 @@
+{
+    "name": "contact-manager/php-app",
+    "description": "Simple PHP Contact Manager",
+    "require": {
+        "php": ">=8.1"
+    }
+}
