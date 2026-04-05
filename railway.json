@@ -1,4 +1,4 @@
-nano railway.json
+
 {
   "build": {
     "builder": "NIXPACKS"
