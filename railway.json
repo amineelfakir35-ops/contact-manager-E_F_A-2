@@ -1,0 +1,14 @@
+{
+  "services": [
+    {
+      "name": "contact-manager",
+      "dockerfile": "Dockerfile"
+    },
+    {
+      "name": "phpmyadmin",
+      "dockerCompose": {
+        "service": "phpmyadmin"
+      }
+    }
+  ]
+}
