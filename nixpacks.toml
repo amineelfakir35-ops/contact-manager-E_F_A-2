@@ -1,0 +1,8 @@
+[phases.setup]
+nixPkgs = ["php81"]
+
+[phases.install]
+cmds = ["composer install --no-dev"]
+
+[phases.start]
+cmd = "php -S 0.0.0.0:$PORT -t ."
